@@ -36,6 +36,7 @@ function App() {
     <>
       <ThemeProvider s theme={theme}>
         <GoToTop/>
+        jii
         <GlobalStyles />
         <BrowserRouter>
           <Header />
