@@ -40,6 +40,7 @@ function App() {
         <BrowserRouter>
           <Header />
           <Routes>
+            <h1>hiii</h1>
             <Route path="/" element={<Home />} />
             <Route path="/Service" element={<Service />} />
             <Route path="/About" element={<About />} />
